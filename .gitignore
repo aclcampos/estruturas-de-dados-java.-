@@ -21,3 +21,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+Fila/fila/.vscode/settings.json
+.gitignore
+.gitignore
+Lista-Circulares/Lista-Circular/.vscode/settings.json
+.gitignore
+.gitignore
+.gitignore
+Lista-Duplamente-Encadeada/Lista-Duplamente-Encadeada/.vscode/settings.json
+Lista-Encadeada/Lista-Encadeada/.vscode/settings.json
+Arvore-Binaria/Arvora-Binaria/.vscode/settings.json
